@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "etree"]
+	path = etree
+	url = https://github.com/ricgbl/etree
+	shallow = true
+	registered = true
